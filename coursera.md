@@ -5,6 +5,7 @@ permalink: /transfer-credit-coursera
 ---
 
 # دليل نقل الساعات الاكاديمية من منصة كورسيرا
+#### تحديث 2023/04/12
 
 ---
 
@@ -19,15 +20,16 @@ permalink: /transfer-credit-coursera
 | [Google Project Management Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management?) | 08/01/21 - 07/31/24     | 9                       | - General Education (Disciplinary area)<br />- Elective<br />- Elective |
 | [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design) | 08/01/21 - 07/31/24     | 10                      | - Web Programming 1 (CS 2205)<br />- ~~Elective~~ Web Programing 2 (CS 3305)<br />- Elecitve |
 | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) | 08/01/21 - 07/31/24     | 12                      | - Database 1 (CS 2203)<br />- Database 2 (CS 3306)<br />- Elective<br />- Elective |
-| [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) | 09/01/19 - 08/30/22     | 12                      | - General Education (Natural Sciences & Technology)<br />- Communications and Networking (CS 2204)<br />- ~~Elective~~ Computer Systems (CS 1104)<br />- ~~Elective~~ Operating Systems 1 (CS2301) |
+| [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) | 02/01/2023 - 01/31/2026     | ~~12~~ 15                     | - General Education (Natural Sciences & Technology)<br />- Communications and Networking (CS 2204)<br />- ~~Elective~~ Computer Systems (CS 1104)<br />- ~~Elective~~ Operating Systems 1 (CS2301)<br />- Elective  |
+| [GOOGLE DIGITAL MARKETING & E-COMMERCE PROFESSIONAL CERTIFICATE](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | 02/01/2023	 - 01/31/2026     | 9                    |   |
 | [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst) | 10/01/2021 - 09/30/2024 | 10                      |                                                              |
 | [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) | 10/01/2021 - 09/30/2024 | 12                      | - Database 1 (CS 2203)<br />- Database 2 (CS 3306)<br />- Programming Fundamentals (CS 1101) or Programming 1 (CS 1102)<br />- Elective |
 | [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) | 10/01/2021 - 09/30/2024 | 12                      | - Database 1 (CS 2203)<br />- Database 2 (CS 3306)<br />- Programming Fundamentals (CS 1101) or Programming 1 (CS 1102)<br />- Elective |
 | [IBM Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science) | 05/30/2022 - 06/03/2025 | 7                       |                                                              |
 | [IBM Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/specializations/data-analysis-visualization-foundations) | 02/1/2022 - 01/31/2025  | 9                       |                                                              |
-| [IBM Applied Data Science Specialization](https://www.coursera.org/specializations/applied-data-science) | 02/1/2022 - 01/31/2025  | 12                      |                                                              |
+| [IBM Applied Data Science Specialization](https://www.coursera.org/specializations/applied-data-science) | 02/1/2022 - 01/31/2025  | 12                      | - Data Mining and Machine Learning (CS 4407) <br />- Elective or Programming Fundamentals (CS 1101) <br />- Elective <br />- Elective                                                             |
 | [IBM Data Analytics with Excel and R Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel) | 05/01/2022 - 04/30/2025 | 15                      |                                                              |
-| [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) | 05/01/2022 - 04/30/2025 | 12                      |                                                              |
+| [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) | 05/01/2022 - 04/30/2025 | 12                      | - Data Mining and Machine Learning (CS 4407) <br />- Elective or Programming Fundamentals (CS 1101) <br />- Elective or Database 1 (CS 2203) <br />- Elective                                                             |
 | [IBM Data Science Fundamentals with Python & SQL Specialization](https://www.coursera.org/specializations/data-science-fundamentals-python-sql) | 05/01/2022 - 04/30/2025 | 8                       |                                                              |
 | [IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) | 05/01/2022 - 04/30/2025 | 18                      |                                                              |
 | [Real-World Cloud Product Management Specialization](https://www.coursera.org/specializations/real-world-cloud-pm) | 05/01/2022 - 04/30/2025 | 6                       |                                                              |
